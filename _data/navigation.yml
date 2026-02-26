@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: "Research"
+    url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  - title: "Teaching & Service"
+    url: /teaching-service/    
+
+  # - title: "Curriculum Vitae"
+    # url: /files/Sumin_CV.pdf
+
+  - title: "Lab (Comming Soon!)"
