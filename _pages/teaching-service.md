@@ -14,9 +14,9 @@ author_profile: true
 - **Transportation and Logistics Planning**, Korea Aerospace University, Fall 2026
 - **ISE 3424 Discrete-Event Simulation**, Virginia Tech, Summer 2024
   - Undergraduate course, enrollment: 26, overall rating: 5.6/6.0.
-  - Designed and delivered lectures, assignments, and exams.
-  - Developed hands-on labs and project-based assignments using Simio and @Risk.
-  - Covered input modeling and statistical analysis for simulation output.
+  <!-- - Designed and delivered lectures, assignments, and exams. -->
+  <!-- - Developed hands-on labs and project-based assignments using Simio and @Risk. -->
+  <!-- - Covered input modeling and statistical analysis for simulation output. -->
 
 ## Teaching Assistant (Virginia Tech)
 ---
